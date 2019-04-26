@@ -40,11 +40,13 @@ header a {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    padding: 32px;
 }
 
 .what-we-do section {
-    width: 50%;
+    width: calc(50% - 32px);
     position: relative;
+    padding: 16px;
 }
 
 
