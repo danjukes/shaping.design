@@ -15,12 +15,12 @@ header {
 
 header h1, header a {
     display: inline-block;
-    width: 70%;
+    width: 65%;
     position: relative;
 }
 
 header a {
-    width: 30%;
+    width: 35%;
     text-align: right;
     text-transform: uppercase;
     text-decoration: none;
