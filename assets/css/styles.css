@@ -58,3 +58,16 @@ header a {
     }
 
 }
+
+@media (max-width: 680px) {
+
+    header, .intro, .what-we-do, .about, .get-in-touch {
+        padding: 16px 24px;
+    }
+
+    .what-we-do section {
+        width: calc(100% - 16px);
+        position: relative;
+        padding: 8px;
+    }
+}
