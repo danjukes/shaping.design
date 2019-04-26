@@ -1,3 +1,58 @@
 header, .intro, .what-we-do, .about, .get-in-touch {
     padding: 32px 48px;
 }
+
+header {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+header h1, header a {
+    display: inline-block;
+    width: 50%;
+    position: relative;
+}
+
+header a {
+    text-align: right;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.intro h1 {
+    font-size: 94px;
+    line-height: 103px;
+}
+
+.what-we-do {
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -moz-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.what-we-do section {
+    width: 50%;
+    position: relative;
+}
+
+
+@media (max-width: 991px) {
+
+    .intro h1 {
+        font-size: 51px;
+        line-height: 70px;
+    }
+
+}
