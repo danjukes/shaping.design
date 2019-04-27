@@ -64,11 +64,13 @@ header a {
 
 .about .experience {
     margin-top: 16px;
+    vertical-align: middle;
 }
 
 .about .experience img {
     width: 120px;
     height: auto;
+    margin-right: 16px;
 }
 
 
