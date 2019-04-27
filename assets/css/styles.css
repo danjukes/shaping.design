@@ -1,3 +1,7 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 header, .intro, .what-we-do, .about, .get-in-touch {
     padding: 32px 48px;
 }
@@ -48,6 +52,19 @@ header a {
     width: calc(50% - 32px);
     position: relative;
     padding: 16px;
+}
+
+.about {
+
+}
+
+.about .experience {
+    margin-top: 16px;
+}
+
+.about .experience img {
+    width: 120px;
+    height: auto;
 }
 
 
