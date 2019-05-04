@@ -16,6 +16,8 @@ body {
     font-family: 'proxima-nova', sans-serif;
     margin: 0;
     padding: 0;
+    font-size: 18px;
+    line-height: 24px;
 }
 
 h1, h2, h3, h4, h5{
@@ -26,8 +28,12 @@ h2 {
     width: calc(100% - 16px);
 }
 
-header, .intro, .what-we-do, .about, .get-in-touch {
-    padding: 32px 48px;
+header, .intro, .what-we-do, .about, .get-in-touch, .experience {
+    padding: 40px 48px;
+}
+
+.about {
+    padding: 64px 48px;   
 }
 
 header {
@@ -102,12 +108,12 @@ header .get-in-touch a {
     color: #fff;
 }
 
-.about .experience {
+.experience {
     margin-top: 16px;
     vertical-align: middle;
 }
 
-.about .experience img {
+.experience img {
     width: 120px;
     height: auto;
     margin-right: 16px;
