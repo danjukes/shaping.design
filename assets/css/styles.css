@@ -66,7 +66,7 @@ header .get-in-touch a {
 }
 
 .intro {
-    background: #fff;
+    background: #f5f5f5;
 }
 
 .intro h1 {
@@ -86,8 +86,9 @@ header .get-in-touch a {
     padding: 32px;
 }
 
-.what-we-do h2 {
+.what-we-do h2, .about h2 {
     padding-left: 16px;
+    text-align: center;
 }
 
 .what-we-do section {
@@ -97,6 +98,8 @@ header .get-in-touch a {
 }
 
 .about {
+    background: #5ec5eb;
+    color: #fff;
 }
 
 .about .experience {
