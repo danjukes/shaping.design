@@ -45,8 +45,7 @@ header {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: linear-gradient(to right, #0fcdd0 , rgb(128, 191, 244));
-    color: #fff;
+    color: rgba(0,0,0,0.80);
     padding: 32px 48px;
 }
 
@@ -65,8 +64,8 @@ header .contact {
 }
 
 header .contact a {
-    color: #fff;
-    border: 2px solid #fff;
+    color: rgba(0,0,0,0.80)
+    border: 2px solid rgba(0,0,0,0.80);
     padding: 8px;
     width: auto;
     text-decoration: none;
@@ -111,8 +110,8 @@ header .contact a {
 }
 
 .about {
-    background: #5ec5eb;
-    color: #fff;
+    background: #f8f8f8;
+    color: rgba(0,0,0,0.80);
 }
 
 .experience {
