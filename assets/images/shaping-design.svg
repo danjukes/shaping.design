@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="479px" height="479px" viewBox="0 0 479 479" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <circle id="Oval-2" fill="#000000" cx="239.5" cy="239.5" r="239.5"></circle>
+            <g id="Group" transform="translate(136.000000, 83.000000)" fill="#FFFFFF" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M0,100 C0,44.771525 44.771525,0 100,0 L100,100 L0,100 Z" id="Combined-Shape"></path>
+                <path d="M0,207 C0,151.771525 44.771525,107 100,107 L100,207 L0,207 Z" id="Combined-Shape" transform="translate(50.000000, 157.000000) rotate(-90.000000) translate(-50.000000, -157.000000) "></path>
+                <path d="M0,313 C0,257.771525 44.771525,213 100,213 L100,313 L0,313 Z" id="Combined-Shape" transform="translate(50.000000, 263.000000) rotate(-90.000000) translate(-50.000000, -263.000000) "></path>
+                <path d="M107,100 C107,44.771525 151.771525,0 207,0 L207,100 L107,100 Z" id="Combined-Shape" transform="translate(157.000000, 50.000000) rotate(-270.000000) translate(-157.000000, -50.000000) "></path>
+                <path d="M107,207 C107,151.771525 151.771525,107 207,107 L207,207 L107,207 Z" id="Combined-Shape" transform="translate(157.000000, 157.000000) rotate(-270.000000) translate(-157.000000, -157.000000) "></path>
+                <path d="M107,313 C107,257.771525 151.771525,213 207,213 L207,313 L107,313 Z" id="Combined-Shape" transform="translate(157.000000, 263.000000) rotate(-180.000000) translate(-157.000000, -263.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
