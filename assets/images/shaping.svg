@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="257px" height="255px" viewBox="0 0 257 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#249CCB" offset="0%"></stop>
+            <stop stop-color="#F117B3" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-12.2%" y="-8.0%" width="124.3%" height="115.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(-40.000000, -41.000000)">
+            <path d="M184.5,42.2376043 L269.846442,91.5123957 C279.747277,97.2286451 285.846442,107.79271 285.846442,119.225209 L285.846442,217.774791 C285.846442,229.20729 279.747277,239.771355 269.846442,245.487604 L184.5,294.762396 C174.599166,300.478645 162.400834,300.478645 152.5,294.762396 L67.1535578,245.487604 C57.2527233,239.771355 51.1535578,229.20729 51.1535578,217.774791 L51.1535578,119.225209 C51.1535578,107.79271 57.2527233,97.2286451 67.1535578,91.5123957 L152.5,42.2376043 C162.400834,36.5213549 174.599166,36.5213549 184.5,42.2376043 Z" id="Polygon" fill="url(#linearGradient-1)" transform="translate(168.500000, 168.500000) rotate(-16.000000) translate(-168.500000, -168.500000) "></path>
+            <g id="Group" filter="url(#filter-2)" stroke-linecap="round" stroke-linejoin="round" transform="translate(132.000000, 112.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M0,35 C0,15.6700337 15.6700337,0 35,0 L35,33 C35,34.1045695 34.1045695,35 33,35" id="Combined-Shape"></path>
+                <path d="M0,74 C7.57727214e-14,54.6700338 15.6700337,39 35,39 L35,72 C35,73.1045695 34.1045695,74 33,74" id="Combined-Shape" transform="translate(17.500000, 56.500000) rotate(-90.000000) translate(-17.500000, -56.500000) "></path>
+                <path d="M0,113 C-7.77156117e-15,93.6700338 15.6700338,78 35,78 L35,111 C35,112.104569 34.1045695,113 33,113 L0,113 Z" id="Combined-Shape" transform="translate(17.500000, 95.500000) rotate(-90.000000) translate(-17.500000, -95.500000) "></path>
+                <path d="M38.8598867,34.4600335 C38.8598867,15.5056649 54.3509001,0.140113274 73.4600335,0.140113274 L73.4600335,32.4600335 C73.4600335,33.564603 72.564603,34.4600335 71.4600335,34.4600335 C60.5933179,34.4600335 49.7266023,34.4600335 38.8598867,34.4600335 Z" id="Combined-Shape" transform="translate(56.159960, 17.300073) rotate(90.000000) translate(-56.159960, -17.300073) "></path>
+                <path d="M38.8598867,73.4600335 C38.8598867,54.5056649 54.3509001,39.1401133 73.4600335,39.1401133 L73.4600335,71.4600335 C73.4600335,72.564603 72.564603,73.4600335 71.4600335,73.4600335 L38.8598867,73.4600335 Z" id="Combined-Shape" transform="translate(56.159960, 56.300073) rotate(90.000000) translate(-56.159960, -56.300073) "></path>
+                <path d="M39,113 C39,93.6700338 54.6700338,78 74,78 L74,111 C74,112.104569 73.1045695,113 72,113 L39,113 Z" id="Combined-Shape" transform="translate(56.500000, 95.500000) rotate(-180.000000) translate(-56.500000, -95.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
