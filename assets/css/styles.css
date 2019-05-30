@@ -53,15 +53,14 @@ header h1, header a {
     display: inline-block;
     width: 68%;
     position: relative;
-    padding-left: 80px;
+    padding-left: 88px;
 }
 
 header h1 img {
-    width: 60px;
     position: absolute;
-    top: -38px;
+    top: -28px;
     left: 0px;
-    width: 264px;
+    width: 80px;
 }
 
 header .contact {
