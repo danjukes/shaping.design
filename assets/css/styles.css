@@ -84,11 +84,12 @@ header .contact a {
     background: url(../images/bg.png);
     background-size: cover;
     background-repeat: no-repeat;
+    text-align: center;
 }
 
 .intro h1 {
-    font-size: 94px;
-    line-height: 103px;
+    font-size: 80px;
+    line-height: 88px;
     text-shadow: 1px 1px 0px rgba(255,255,255,0.54)
 }
 
