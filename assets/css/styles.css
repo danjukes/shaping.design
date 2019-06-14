@@ -12,16 +12,33 @@
     font-style: normal;
   }
 
+  @font-face {
+    font-family: 'rounded-light';
+    src: url('../font/GothamRounded-Light.otf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'rounded-medium';
+    src: url('../font/GothamRounded-Medium.otf');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'rounded-normal';
+    src: url('../font/GothamRounded-Book.otf');
+    font-weight: normal;
+    font-style: normal;
+  }
+
 body {
-    font-family: 'proxima-nova', sans-serif;
+    font-family: 'rounded-normal', sans-serif;
     margin: 0;
     padding: 0;
     font-size: 18px;
     line-height: 24px;
-}
-
-h1, h2, h3, h4, h5{
-    font-family: 'proxima-nova-bold', sans-serif;    
 }
 
 h2 {
@@ -54,13 +71,14 @@ header h1, header a {
     width: 68%;
     position: relative;
     padding-left: 88px;
+    font-family: 'rounded-medium';
 }
 
 header h1 img {
     position: absolute;
-    top: -28px;
+    top: -40px;
     left: 0px;
-    width: 80px;
+    width: 308px;
 }
 
 header .contact {
@@ -81,10 +99,11 @@ header .contact a {
 }
 
 .intro {
-    background: url(../images/bg.png);
+    background: url(../images/bg-lines.png);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
+    font-family: 'rounded-normal';
 }
 
 .intro h1 {
