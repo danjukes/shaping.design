@@ -39,6 +39,7 @@ body {
     padding: 0;
     font-size: 18px;
     line-height: 24px;
+    color: rgba(0,0,0,0.87);
 }
 
 h2 {
@@ -62,7 +63,6 @@ header {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    color: rgba(0,0,0,0.80);
     padding: 32px 48px;
 }
 
@@ -70,15 +70,15 @@ header h1, header a {
     display: inline-block;
     width: 68%;
     position: relative;
-    padding-left: 88px;
+    padding-left: 104px;
     font-family: 'rounded-medium';
 }
 
 header h1 img {
     position: absolute;
-    top: -40px;
+    top: -32px;
     left: 0px;
-    width: 308px;
+    width: 96px;
 }
 
 header .contact {
@@ -104,12 +104,13 @@ header .contact a {
     background-repeat: no-repeat;
     text-align: center;
     font-family: 'rounded-normal';
+    color: #fff;
 }
 
 .intro h1 {
     font-size: 80px;
     line-height: 88px;
-    text-shadow: 1px 1px 0px rgba(255,255,255,0.54)
+    text-shadow: 1px 1px 0px rgba(0,0,0,0.12)
 }
 
 .what-we-do {
