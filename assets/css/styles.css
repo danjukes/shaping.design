@@ -138,6 +138,31 @@ header .contact a {
     color: #fff;
 }
 
+.what-we-do section p {
+    font-size: 14px;
+}
+
+.product-design {
+    background: url(../images/product-design.png) no-repeat;
+    background-size: cover; 
+}
+
+
+.strategy {
+    background: url(../images/strategy.png) no-repeat;
+    background-size: cover; 
+}
+
+.sprints {
+    background: url(../images/sprints.png) no-repeat;
+    background-size: cover; 
+}
+
+.reviews {
+    background: url(../images/reviews.png) no-repeat;
+    background-size: cover; 
+}
+
 .about {
     background: #f8f8f8;
     color: rgba(0,0,0,0.80);
