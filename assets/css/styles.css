@@ -119,6 +119,10 @@ header .contact a {
     text-shadow: 1px 1px 0px rgba(0,0,0,0.12)
 }
 
+.mobile-cta {
+    display: none;
+}
+
 .what-we-do {
     display: -moz-flex;
     display: -webkit-flex;
@@ -233,6 +237,24 @@ header .contact a {
         line-height: 32px;
     }
 
+    .mobile-cta {
+        display: block;
+        width: auto;
+        margin: 16px auto 0;
+        text-align: center;
+    }
+
+    .mobile-cta .contact a {
+        color: rgba(0,0,0,0.80);
+        border: 2px solid rgba(0,0,0,0.12);
+        border-radius: 2px;
+        padding: 8px;
+        width: auto;
+        text-decoration: none;
+        font-family: 'rounded-normal';
+        font-size: 14px;
+    }
+
     .comp-logo {
         width: 49%;
         margin-bottom: 16px;
@@ -246,8 +268,6 @@ header .contact a {
     }
 
     header .contact {
-        width: auto;
-        margin: 8px auto 0;
-        text-align: center;
+        display: none;
     }
 }
