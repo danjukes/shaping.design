@@ -201,6 +201,10 @@ header .contact a {
         padding: 16px 24px;
     }
 
+    header {
+        display: block;
+    }
+
     .what-we-do section {
         width: calc(100% - 16px);
         position: relative;
