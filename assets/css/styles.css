@@ -211,6 +211,19 @@ header .contact a {
 
     header h1 img {
         width: 60px;
+        top: -18px;
+    }
+
+    header h1 {
+        font-size: 32px;
+    }
+    
+    header h1, header a {
+        display: inline-block;
+        width: 68%;
+        position: relative;
+        padding-left: 68px;
+        font-family: 'rounded-medium';
     }
 
     .what-we-do section {
