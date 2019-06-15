@@ -226,6 +226,11 @@ header .contact a {
         font-family: 'rounded-medium';
     }
 
+    .intro h1 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+
     .what-we-do section {
         width: calc(100% - 16px);
         position: relative;
