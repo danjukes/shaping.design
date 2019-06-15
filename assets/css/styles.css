@@ -235,5 +235,6 @@ header .contact a {
         width: calc(100% - 16px);
         position: relative;
         padding: 8px;
+        margin: 8px 0;
     }
 }
