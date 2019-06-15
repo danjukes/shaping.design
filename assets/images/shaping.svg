@@ -1,42 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="311px" height="298px" viewBox="0 0 311 298" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="255px" height="253px" viewBox="0 0 255 253" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>shaping</title>
+    <title>Slice</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
             <stop stop-color="#249CCB" offset="0%"></stop>
             <stop stop-color="#F117B3" offset="100%"></stop>
         </linearGradient>
-        <path d="M165.5,31.8474007 L250.846442,81.1221921 C260.747277,86.8384415 266.846442,97.4025064 266.846442,108.835005 L266.846442,207.384587 C266.846442,218.817086 260.747277,229.381151 250.846442,235.0974 L165.5,284.372192 C155.599166,290.088441 143.400834,290.088441 133.5,284.372192 L48.1535578,235.0974 C38.2527233,229.381151 32.1535578,218.817086 32.1535578,207.384587 L32.1535578,108.835005 C32.1535578,97.4025064 38.2527233,86.8384415 48.1535578,81.1221921 L133.5,31.8474007 C143.400834,26.1311513 155.599166,26.1311513 165.5,31.8474007 Z" id="path-2"></path>
-        <filter x="-16.2%" y="-10.6%" width="132.4%" height="121.2%" filterUnits="objectBoundingBox" id="filter-4">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0567362325 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
-            <feMerge>
-                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
-                <feMergeNode in="SourceGraphic"></feMergeNode>
-            </feMerge>
-        </filter>
+        <path d="M135.288581,14.055974 L230.91082,37.8972759 C242.003725,40.6630475 250.77847,49.1367208 253.929693,60.1263442 L281.09364,154.858282 C284.244863,165.847906 281.293821,177.683895 273.352139,185.907746 L204.893847,256.798384 C196.952166,265.022234 185.226377,268.38455 174.133472,265.618779 L78.5112333,241.777476 C67.4183286,239.011705 58.6435835,230.538032 55.4923597,219.548409 L28.3284135,124.81647 C25.1771897,113.826847 28.1282329,101.990858 36.069914,93.7670066 L104.528207,22.8763694 C112.469887,14.6525181 124.195677,11.2902021 135.288581,14.055974 Z M118,118 L151,118 C152.10457,118 153,117.10457 153,116 L153,83 C133.670034,83 118,98.6700337 118,118 Z M153,157 L153,124 C153,122.895431 152.10457,122 151,122 L118,122 C118,141.329966 133.670034,157 153,157 Z M153,196 L153,163 C153,161.895431 152.104569,161 151,161 L118,161 C118,180.329966 133.670034,196 153,196 Z M157,82.9999997 C157,93.8667153 157,104.733431 157,115.600147 C157,116.704716 157.89543,117.600147 159,117.600147 L191.31992,117.600147 C191.31992,98.4910131 175.954368,82.9999997 157,82.9999997 Z M157,122 L157,154.600146 C157,155.704716 157.89543,156.600146 159,156.600146 L191.31992,156.600146 C191.31992,137.491013 175.954368,122 157,122 Z M192,161 L159,161 C157.895431,161 157,161.895431 157,163 L157,196 C176.329966,196 192,180.329966 192,161 Z" id="path-2"></path>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="shaping" transform="translate(6.000000, -19.000000)">
-            <g id="logo" transform="translate(0.000000, 0.390204)">
-                <mask id="mask-3" fill="white">
-                    <use xlink:href="#path-2"></use>
-                </mask>
-                <use id="Polygon" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(149.500000, 158.109796) rotate(-16.000000) translate(-149.500000, -158.109796) " xlink:href="#path-2"></use>
-                <polygon id="Path" fill-opacity="0.12" fill="#FFFFFF" fill-rule="evenodd" points="299 271 298 316 0 316 0 102"></polygon>
-                <polygon id="Path-2" fill-opacity="0.12" fill="#FFFFFF" fill-rule="evenodd" points="-5.21102662 230.174905 -5.21102662 316 304.211027 316 304.211027 19"></polygon>
-            </g>
-            <g id="Group" filter="url(#filter-4)" transform="translate(113.000000, 102.000000)" fill="#FFFFFF" fill-rule="nonzero">
-                <path d="M0,35 C0,15.6700337 15.6700337,0 35,0 L35,33 C35,34.1045695 34.1045695,35 33,35" id="Combined-Shape"></path>
-                <path d="M0,74 C0,54.6700338 15.6700337,39 35,39 L35,72 C35,73.1045695 34.1045695,74 33,74" id="Combined-Shape" transform="translate(17.500000, 56.500000) rotate(-90.000000) translate(-17.500000, -56.500000) "></path>
-                <path d="M0,113 C0,93.6700338 15.6700338,78 35,78 L35,111 C35,112.104569 34.1045695,113 33,113 L0,113 Z" id="Combined-Shape" transform="translate(17.500000, 95.500000) rotate(-90.000000) translate(-17.500000, -95.500000) "></path>
-                <path d="M38.8598862,34.4600332 C38.8598862,15.5056646 54.3508996,0.140112987 73.460033,0.140112987 L73.460033,32.4600332 C73.460033,33.5646027 72.5646025,34.4600332 71.460033,34.4600332 C60.5933174,34.4600332 49.7266018,34.4600332 38.8598862,34.4600332 Z" id="Combined-Shape" transform="translate(56.159960, 17.300073) rotate(90.000000) translate(-56.159960, -17.300073) "></path>
-                <path d="M38.8598862,73.4600332 C38.8598862,54.5056646 54.3508996,39.140113 73.460033,39.140113 L73.460033,71.4600332 C73.460033,72.5646027 72.5646025,73.4600332 71.460033,73.4600332 L38.8598862,73.4600332 Z" id="Combined-Shape" transform="translate(56.159960, 56.300073) rotate(90.000000) translate(-56.159960, -56.300073) "></path>
-                <path d="M39,113 C39,93.6700338 54.6700338,78 74,78 L74,111 C74,112.104569 73.1045695,113 72,113 L39,113 Z" id="Combined-Shape" transform="translate(56.500000, 95.500000) rotate(-180.000000) translate(-56.500000, -95.500000) "></path>
-            </g>
+        <g id="shaping" transform="translate(-27.000000, -13.000000)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+            <polygon id="Path" fill-opacity="0.12" fill="#FFFFFF" points="304.211027 252.72758 303.211027 297.72758 5.21102662 297.72758 5.21102662 83.7275799"></polygon>
+            <polygon id="Path-2" fill-opacity="0.12" fill="#FFFFFF" points="0 211.902485 0 297.72758 309.422053 297.72758 309.422053 0.727579942"></polygon>
+            <g id="Group" transform="translate(157.000000, 161.000000)"></g>
         </g>
     </g>
 </svg>
