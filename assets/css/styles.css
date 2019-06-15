@@ -95,11 +95,13 @@ header .contact {
 
 header .contact a {
     color: rgba(0,0,0,0.80);
-    border: 2px solid rgba(0,0,0,0.80);
+    border: 2px solid rgba(0,0,0,0.12);
+    border-radius: 2px;
     padding: 8px;
     width: auto;
     text-decoration: none;
-    font-weight: bold;
+    font-family: 'rounded-normal';
+    font-size: 14px;
 }
 
 .intro {
@@ -240,5 +242,11 @@ header .contact a {
         position: relative;
         padding: 8px;
         margin: 8px 0;
+    }
+
+    header .contact {
+        width: auto;
+        margin: auto;
+        text-align: center;
     }
 }
