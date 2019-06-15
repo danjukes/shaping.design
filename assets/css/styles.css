@@ -215,7 +215,7 @@ header .contact a {
     }
 
     header h1 {
-        font-size: 26px;
+        font-size: 28px;
         width: 100%;
     }
     
@@ -227,8 +227,8 @@ header .contact a {
     }
 
     .intro h1 {
-        font-size: 28px;
-        line-height: 32px;
+    font-size: 26px;
+    line-height: 32px;
     }
 
     .what-we-do section {
