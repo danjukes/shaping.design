@@ -221,7 +221,6 @@ header .contact a {
     
     header h1, header a {
         display: inline-block;
-        width: 68%;
         position: relative;
         padding-left: 68px;
         font-family: 'rounded-medium';
