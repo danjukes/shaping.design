@@ -141,11 +141,12 @@ header .contact a {
 }
 
 .what-we-do section {
-    width: calc(44% - 0px);
+    width: calc(44.5% - 0px);
     position: relative;
     padding: 16px;
     margin: 16px;
     color: rgba(0,0,0,0.87);
+    background-image: linear-gradient(25deg, #2898CB, #F46DCE);
 }
 
 .what-we-do section p {
@@ -153,8 +154,22 @@ header .contact a {
 }
 
 .product-design {
-    border: 1px solid rgba(0,0,0,0.12);
-    border-left: 4px solid #2799CB;
+    background-image: linear-gradient(25deg, #2898CB, #F46DCE);
+}
+
+.what-we-do section::after {
+    content: "";
+    background: #FFF;
+    position: absolute;
+    top: 0.1vw;
+    right: 0.1vw;
+    bottom: 0.1vw;
+    left: 0.1vw;
+} 
+
+.what-we-do .content {
+    position: relative;
+    z-index: 10;
 }
 
 
